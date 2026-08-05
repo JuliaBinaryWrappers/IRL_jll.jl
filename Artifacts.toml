@@ -1,0 +1,164 @@
+[[IRL]]
+arch = "aarch64"
+git-tree-sha1 = "62183e6411d2a1fa43d45e19e28e5762c47093fe"
+os = "macos"
+
+    [[IRL.download]]
+    sha256 = "ca2dc711435934466e7f42edf42d280188194fa44c99baa7fecd5080014f7096"
+    url = "https://github.com/JuliaBinaryWrappers/IRL_jll.jl/releases/download/IRL-v0.1.0+0/IRL.v0.1.0.aarch64-apple-darwin.tar.gz"
+[[IRL]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6278276679bf57f0b51469fe0b1a4f1bcd721af3"
+libc = "glibc"
+os = "linux"
+
+    [[IRL.download]]
+    sha256 = "a0ea74210c302254f5fdd200cb70ce6b4574e31d3d183cd092a3e30f8d9e99c7"
+    url = "https://github.com/JuliaBinaryWrappers/IRL_jll.jl/releases/download/IRL-v0.1.0+0/IRL.v0.1.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[IRL]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2a79170172916f98d0cf68927226d3ce298778fa"
+libc = "musl"
+os = "linux"
+
+    [[IRL.download]]
+    sha256 = "ea2e9e223adf02664b559f8eff6542e93b3291cc26c92c3af85dc25ca115d0c6"
+    url = "https://github.com/JuliaBinaryWrappers/IRL_jll.jl/releases/download/IRL-v0.1.0+0/IRL.v0.1.0.aarch64-linux-musl-cxx11.tar.gz"
+[[IRL]]
+arch = "aarch64"
+git-tree-sha1 = "e0b3b1561ee58a51a36a32d871b619afd8493837"
+os = "freebsd"
+
+    [[IRL.download]]
+    sha256 = "2f64dafd52759bf0c77e053d5a982c35739940ca785376bc32b4309f1cc32676"
+    url = "https://github.com/JuliaBinaryWrappers/IRL_jll.jl/releases/download/IRL-v0.1.0+0/IRL.v0.1.0.aarch64-unknown-freebsd.tar.gz"
+[[IRL]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d5f1d57600e0ad661342aa79463cde4f9ff0716e"
+libc = "glibc"
+os = "linux"
+
+    [[IRL.download]]
+    sha256 = "8945185d2d7d651afe12018115f6686699fbce4c2f6e0f42482cd87679cedc44"
+    url = "https://github.com/JuliaBinaryWrappers/IRL_jll.jl/releases/download/IRL-v0.1.0+0/IRL.v0.1.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[IRL]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c6108313777e55026b3e27c9c645523d87fa8dc1"
+libc = "musl"
+os = "linux"
+
+    [[IRL.download]]
+    sha256 = "7e42d068d616d588f75fecd69dc8b08cb63ea6701c8b116e0aaeedd3599c8362"
+    url = "https://github.com/JuliaBinaryWrappers/IRL_jll.jl/releases/download/IRL-v0.1.0+0/IRL.v0.1.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[IRL]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "773dbc80fbd43eca713d86f5f869dc8155ba6a0b"
+libc = "glibc"
+os = "linux"
+
+    [[IRL.download]]
+    sha256 = "84357f0d23eff25bc30449beb5264bbf755e042f54d50722887fd66118fb96b7"
+    url = "https://github.com/JuliaBinaryWrappers/IRL_jll.jl/releases/download/IRL-v0.1.0+0/IRL.v0.1.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[IRL]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3b5eef3e1165c97310655d9f7631555786d2ee2a"
+libc = "musl"
+os = "linux"
+
+    [[IRL.download]]
+    sha256 = "fca04e80e0290a89b246a34388d45c04ab21fa8b4ea39fb79d8796f9ce4347d8"
+    url = "https://github.com/JuliaBinaryWrappers/IRL_jll.jl/releases/download/IRL-v0.1.0+0/IRL.v0.1.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[IRL]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0e32b45f937bb7534cf1955b91c02f6ceaf1584e"
+libc = "glibc"
+os = "linux"
+
+    [[IRL.download]]
+    sha256 = "40a4c28a0cbf6d0b02b17ab482011c0c027e275fdd45816fb228950d4f61d33c"
+    url = "https://github.com/JuliaBinaryWrappers/IRL_jll.jl/releases/download/IRL-v0.1.0+0/IRL.v0.1.0.i686-linux-gnu-cxx11.tar.gz"
+[[IRL]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "de17bb21534b98bc854d1a62dfffd002086190ce"
+libc = "musl"
+os = "linux"
+
+    [[IRL.download]]
+    sha256 = "d811c617d50fad81f4b717162471eea0af5496bda2670d6d23987471ae7d06dc"
+    url = "https://github.com/JuliaBinaryWrappers/IRL_jll.jl/releases/download/IRL-v0.1.0+0/IRL.v0.1.0.i686-linux-musl-cxx11.tar.gz"
+[[IRL]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f0b11d8944ec5e6229bfc509d41aee2e2dd389b5"
+os = "windows"
+
+    [[IRL.download]]
+    sha256 = "11390073e5cc5052ab3255b180a3e2a572499fd1ebcb3e7ec88da59245fda31b"
+    url = "https://github.com/JuliaBinaryWrappers/IRL_jll.jl/releases/download/IRL-v0.1.0+0/IRL.v0.1.0.i686-w64-mingw32-cxx11.tar.gz"
+[[IRL]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0c60d809fdffac9b3c19471f2c9efdc02583f8d1"
+libc = "glibc"
+os = "linux"
+
+    [[IRL.download]]
+    sha256 = "561dc8281294d338cbc60a3623bbd8f4bda2d5d22c96f38718bafe2830727013"
+    url = "https://github.com/JuliaBinaryWrappers/IRL_jll.jl/releases/download/IRL-v0.1.0+0/IRL.v0.1.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[IRL]]
+arch = "x86_64"
+git-tree-sha1 = "54e7b8128ec52163d88f9992b2188359f5f2c272"
+os = "macos"
+
+    [[IRL.download]]
+    sha256 = "0dc5050c836cb24cbf14aad46c4345c2d6700526e1c4913825a29cabbf5f4e50"
+    url = "https://github.com/JuliaBinaryWrappers/IRL_jll.jl/releases/download/IRL-v0.1.0+0/IRL.v0.1.0.x86_64-apple-darwin.tar.gz"
+[[IRL]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7fa1ccae41a4016110dc62649b8eee3c03f98625"
+libc = "glibc"
+os = "linux"
+
+    [[IRL.download]]
+    sha256 = "970cdaf0d2d14d6bafe9a6fb5219cd171af3b0e87ff21ab9772260f694564031"
+    url = "https://github.com/JuliaBinaryWrappers/IRL_jll.jl/releases/download/IRL-v0.1.0+0/IRL.v0.1.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[IRL]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f1d76c66cf691f79fd1d95134ab0b50f6b06eff7"
+libc = "musl"
+os = "linux"
+
+    [[IRL.download]]
+    sha256 = "ceac84550eb4b68a4d0cc77573329e6a86ab542a54ad5c57f2f9e19bddd49170"
+    url = "https://github.com/JuliaBinaryWrappers/IRL_jll.jl/releases/download/IRL-v0.1.0+0/IRL.v0.1.0.x86_64-linux-musl-cxx11.tar.gz"
+[[IRL]]
+arch = "x86_64"
+git-tree-sha1 = "f048410c9f367b6a372cbcda9b26f885dd5b93cb"
+os = "freebsd"
+
+    [[IRL.download]]
+    sha256 = "e67104fc394a127485dd89c614ab5ea343d0f832abbeec95add5a06d59b343a6"
+    url = "https://github.com/JuliaBinaryWrappers/IRL_jll.jl/releases/download/IRL-v0.1.0+0/IRL.v0.1.0.x86_64-unknown-freebsd.tar.gz"
+[[IRL]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1b9660ffb63bc2a26ca2c28bf7be52c154049cbd"
+os = "windows"
+
+    [[IRL.download]]
+    sha256 = "a44d35838538f411ba6ed1cbea8e8012d8bf6e39472b9e99d4d0c1c6c0a9f1df"
+    url = "https://github.com/JuliaBinaryWrappers/IRL_jll.jl/releases/download/IRL-v0.1.0+0/IRL.v0.1.0.x86_64-w64-mingw32-cxx11.tar.gz"
